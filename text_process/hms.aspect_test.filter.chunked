@@ -1,0 +1,2272 @@
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#PRICES
+P	is negative
+A	FOOD#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#PRICES
+P	is postive
+
+A	DRINKS#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	LOCATION#GENERAL
+P	is neutral
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	LOCATION#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#PRICES
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is neutral
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is postive
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+A	SERVICE#GENERAL
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is negative
+
+A	DRINKS#QUALITY
+P	is negative
+
+A	DRINKS#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	DRINKS#STYLE_OPTIONS
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	DRINKS#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	LOCATION#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	DRINKS#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+A	FOOD#PRICES
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	LOCATION#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	LOCATION#GENERAL
+P	is neutral
+A	FOOD#QUALITY
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	DRINKS#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	DRINKS#STYLE_OPTIONS
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is neutral
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+A	AMBIENCE#GENERAL
+P	is neutral
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#PRICES
+P	is postive
+A	DRINKS#PRICES
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	DRINKS#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is neutral
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is neutral
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#PRICES
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#PRICES
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is negative
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is neutral
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	DRINKS#STYLE_OPTIONS
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	LOCATION#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#PRICES
+P	is neutral
+
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#PRICES
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+
+A	AMBIENCE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	DRINKS#QUALITY
+P	is postive
+A	DRINKS#PRICES
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#PRICES
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is neutral
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+A	RESTAURANT#PRICES
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is neutral
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is neutral
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	DRINKS#QUALITY
+P	is negative
+A	DRINKS#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is neutral
+
+A	DRINKS#STYLE_OPTIONS
+P	is negative
+
+A	DRINKS#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is negative
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is neutral
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is neutral
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is negative
+A	FOOD#PRICES
+P	is negative
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	LOCATION#GENERAL
+P	is neutral
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+
+A	FOOD#PRICES
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#STYLE_OPTIONS
+P	is neutral
+
+A	DRINKS#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is neutral
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	RESTAURANT#PRICES
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	DRINKS#PRICES
+P	is negative
+A	FOOD#PRICES
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+A	FOOD#PRICES
+P	is postive
+A	FOOD#PRICES
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	LOCATION#GENERAL
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#PRICES
+P	is negative
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	DRINKS#QUALITY
+P	is neutral
+
+A	SERVICE#GENERAL
+P	is neutral
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	DRINKS#STYLE_OPTIONS
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+A	RESTAURANT#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	DRINKS#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is neutral
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	RESTAURANT#MISCELLANEOUS
+P	is neutral
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#PRICES
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	RESTAURANT#PRICES
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	SERVICE#GENERAL
+P	is postive
+A	SERVICE#GENERAL
+P	is negative
+
+A	DRINKS#QUALITY
+P	is postive
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	RESTAURANT#PRICES
+P	is negative
+A	FOOD#QUALITY
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#STYLE_OPTIONS
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is neutral
+
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is postive
+A	AMBIENCE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	FOOD#QUALITY
+P	is neutral
+
+A	SERVICE#GENERAL
+P	is negative
+A	FOOD#QUALITY
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#PRICES
+P	is negative
+
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#PRICES
+P	is negative
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	FOOD#QUALITY
+P	is postive
+A	FOOD#QUALITY
+P	is negative
+A	FOOD#STYLE_OPTIONS
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#MISCELLANEOUS
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is postive
+
+A	FOOD#QUALITY
+P	is postive
+
+A	AMBIENCE#GENERAL
+P	is postive
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	SERVICE#GENERAL
+P	is negative
+
+A	RESTAURANT#GENERAL
+P	is negative
+A	SERVICE#GENERAL
+P	is negative
+

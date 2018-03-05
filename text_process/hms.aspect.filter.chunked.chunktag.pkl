@@ -1,0 +1,12 @@
+(dp1
+S'eos'
+p2
+I0
+sS'A'
+I2
+sS'NULL'
+p3
+I1
+sS'P'
+I3
+s.

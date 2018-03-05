@@ -1,0 +1,1728 @@
+Source 0 : from meat is from the sauces are from you get from and a salad free with your meal and service is good from 
+Truth 0 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#PRICES | P is postive | A FOOD#PRICES | P is postive 
+Sample 0 : FOOD#QUALITY is postive FOOD#QUALITY is postive AMBIENCE#GENERAL is negative 
+Source 1 : from have it a 4 instead of 5 because of the price from chicken from from - no bread of rice - is from which from would expect at a upscale from restaurant but this place from have an upscale from 
+Truth 1 : 
+Sample 1 : RESTAURANT#MISCELLANEOUS is postive 
+Source 2 : from is one of my favorite from very relaxing the food is great all the times , from my from and my from here , it was very well from . 
+Truth 2 : 
+Sample 2 : FOOD#QUALITY is postive 
+Source 3 : from being with a couple of from cool from good pita and from and grilled octopus that was actually pretty from 
+Truth 3 : | A AMBIENCE#GENERAL | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 3 : 
+Source 4 : from from about the atmosphere from from and absolutely from from and the fabulous from 
+Truth 4 : | A AMBIENCE#GENERAL | P is postive | A AMBIENCE#GENERAL | P is postive | A LOCATION#GENERAL | P is postive | A FOOD#QUALITY | P is postive 
+Sample 4 : 
+Source 5 : from impressed from the decor to the food to the from to the great night from from 
+Truth 5 : | A AMBIENCE#GENERAL | P is postive | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 5 : FOOD#QUALITY is postive 
+Source 6 : great from great wine from great service in a great from 
+Truth 6 : | A FOOD#QUALITY | P is postive | A DRINKS#STYLE_OPTIONS | P is postive | A SERVICE#GENERAL | P is postive | A LOCATION#GENERAL | P is postive 
+Sample 6 : AMBIENCE#GENERAL is postive 
+Source 7 : from really makes it from is the from which is from from with from from and all made in-house from the from meat and from and made of much from quality ingredients that might otherwise be from 
+Truth 7 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 7 : FOOD#STYLE_OPTIONS is neutral 
+Source 8 : from from from from know how to make from from service was so from the food was not fresh or from from were busy from with from at the bar and from very attentive to all the from 
+Truth 8 : | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 8 : SERVICE#GENERAL is postive 
+Source 9 : from place has a nice from some attractive from from from what from could from a reasonable wine list from was from the food menu when from asked for the from from from 
+Truth 9 : | A AMBIENCE#GENERAL | P is postive | A AMBIENCE#GENERAL | P is postive | A DRINKS#STYLE_OPTIONS | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 9 : DRINKS#STYLE_OPTIONS is postive SERVICE#GENERAL is postive 
+Source 10 : from are extremely from not even from for the horrible service we got and from us a bill well over from for some drinks from their pita from 
+Truth 10 : | A SERVICE#GENERAL | P is negative | A DRINKS#PRICES | P is negative | A FOOD#PRICES | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 10 : FOOD#QUALITY is negative SERVICE#GENERAL is negative 
+Source 11 : from pastas are from the from from the from are fantastic and the braised from is from 
+Truth 11 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 11 : FOOD#QUALITY is postive 
+Source 12 : from decor however seems to be the from so you from from that you just from from from for some cold from that took 2 from from from from 
+Truth 12 : | A AMBIENCE#GENERAL | P is neutral | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 12 : FOOD#QUALITY is negative 
+Source 13 : from food and service were from however the from was incredibly from and from 
+Truth 13 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 13 : FOOD#QUALITY is postive 
+Source 14 : from bread we from was horrible - rock hard and cold - and the from appetizer of from was from 
+Truth 14 : | A FOOD#QUALITY | P is negative | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is neutral 
+Sample 14 : 
+Source 15 : from from from take reservations you almost always have to wait by the bar - and be from by the from of house staff from you are from which can be over an hour from 
+Truth 15 : | A RESTAURANT#MISCELLANEOUS | P is negative | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 15 : SERVICE#GENERAL is postive 
+Source 16 : from husbands birthday and my from was not as it was from and we from two hours to spend too much money to be treated from 
+Truth 16 : 
+Sample 16 : RESTAURANT#MISCELLANEOUS is postive 
+Source 17 : from time from from the from of house staff from the waiters - from fantastic - but the people who from and seat from has been so from to us that were it not for the exceptional fish dishes from would never from 
+Truth 17 : | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is postive 
+Sample 17 : SERVICE#GENERAL is negative 
+Source 18 : from waiter was from the food was delicious and the from of the city were from 
+Truth 18 : | A SERVICE#GENERAL | P is postive | A FOOD#QUALITY | P is postive | A LOCATION#GENERAL | P is postive 
+Sample 18 : AMBIENCE#GENERAL is postive 
+Source 19 : from space is limited so be prepared to wait up to from minutes - 1 from but be from from when you from the delicious from from 
+Truth 19 : | A AMBIENCE#GENERAL | P is neutral | A RESTAURANT#MISCELLANEOUS | P is negative | A FOOD#QUALITY | P is postive 
+Sample 19 : RESTAURANT#PRICES is neutral 
+Source 20 : from what from would expect for the price and from of this from 
+Truth 20 : | A SERVICE#GENERAL | P is negative | A RESTAURANT#PRICES | P is neutral | A RESTAURANT#MISCELLANEOUS | P is neutral 
+Sample 20 : 
+Source 21 : from hot from are from from but the from to get over here is the fantastic pork from from perfect on its from from from 
+Truth 21 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 21 : FOOD#QUALITY is postive 
+Source 22 : from high prices from going to pay is for the view not for the from 
+Truth 22 : | A LOCATION#GENERAL | P is neutral | A FOOD#QUALITY | P is negative | A RESTAURANT#PRICES | P is negative 
+Sample 22 : 
+Source 23 : from in from from would return - as it was a beautiful restaurant - but from from the staff from more from to the little from in the from 
+Truth 23 : 
+Sample 23 : SERVICE#GENERAL is postive 
+Source 24 : from the time we left our from were from and so were our from from we missed the from we were from to see following our from which would have been from if we got to enjoy the experience of good food and belly from 
+Truth 24 : | A FOOD#QUALITY | P is negative | A RESTAURANT#PRICES | P is negative | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 24 : FOOD#QUALITY is negative 
+Source 25 : from you are paying for is the from and the from 
+Truth 25 : | A AMBIENCE#GENERAL | P is neutral | A RESTAURANT#MISCELLANEOUS | P is neutral | A RESTAURANT#PRICES | P is negative 
+Sample 25 : RESTAURANT#PRICES is postive 
+Source 26 : from from great from 
+Truth 26 : | A RESTAURANT#PRICES | P is postive | A AMBIENCE#GENERAL | P is postive 
+Sample 26 : 
+Source 27 : from appetizers we ordered were served quickly - an order of fried oysters and clams were delicious but a tiny portion from 3 of from 
+Truth 27 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is negative | A SERVICE#GENERAL | P is postive 
+Sample 27 : FOOD#QUALITY is postive 
+Source 28 : from seemed generally happy with their from except my from who had the grilled from from from from in from from 
+Truth 28 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is negative | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 28 : 
+Source 29 : from from amazing from this place is a class from 
+Truth 29 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 29 : 
+Source 30 : from from had more of these kind of from from superb from from top notch all the way from certainly worth the from 
+Truth 30 : | A AMBIENCE#GENERAL | P is postive | A FOOD#QUALITY | P is postive 
+Sample 30 : 
+Source 31 : from manager came to the table and said we can do what we from so we paid for what we did from the drinks and from and walked from 
+Truth 31 : | A SERVICE#GENERAL | P is negative | A DRINKS#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 31 : SERVICE#GENERAL is negative 
+Source 0 : from decent food at a good from with friendly from 
+Truth 0 : | A FOOD#QUALITY | P is neutral | A FOOD#PRICES | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 0 : RESTAURANT#MISCELLANEOUS is postive 
+Source 1 : from from for two from from this in no way from from unless from looking to pay by the hour for from from 
+Truth 1 : | A RESTAURANT#PRICES | P is negative 
+Sample 1 : AMBIENCE#GENERAL is postive 
+Source 2 : from crust has a great bite and a good from the sauce is light with a nice from to from the salt from the cheese is from really from the flavor of all the other from 
+Truth 2 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 2 : AMBIENCE#GENERAL is postive 
+Source 3 : from food was excellent as well as from from from left from from from very from 
+Truth 3 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 3 : 
+Source 4 : from only is it an from getting to this from hidden from once you from the from wooden from the from and intimate from will make you feel like from no longer in the from 
+Truth 4 : | A LOCATION#GENERAL | P is neutral | A AMBIENCE#GENERAL | P is postive | A AMBIENCE#GENERAL | P is postive 
+Sample 4 : FOOD#QUALITY is postive 
+Source 5 : from from spot in from from the sushi is consistently from the service is from from and from 
+Truth 5 : | A AMBIENCE#GENERAL | P is postive | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 5 : FOOD#QUALITY is negative AMBIENCE#GENERAL is negative FOOD#QUALITY 
+Source 6 : from food was from the place was clean and from 
+Truth 6 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is postive | A RESTAURANT#PRICES | P is postive 
+Sample 6 : 
+Source 7 : from rolls are creative and from have yet to find another sushi place that from up more from yet delicious japanese from 
+Truth 7 : | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#QUALITY | P is postive 
+Sample 7 : RESTAURANT#PRICES is postive 
+Source 8 : from is high but the food is from so from would come back from 
+Truth 8 : | A FOOD#QUALITY | P is postive | A FOOD#PRICES | P is negative 
+Sample 8 : 
+Source 9 : from service was extremely fast and from to the service from on your from but from barely from 1 from when the waiter took our from 
+Truth 9 : | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 9 : FOOD#QUALITY is negative SERVICE#GENERAL is negative 
+Source 10 : from gives from the right from from of classic from food and fusion from like pork belly from 
+Truth 10 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 10 : FOOD#QUALITY is postive 
+Source 11 : from pasta was well from from have enough sauce though or from 
+Truth 11 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is negative | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 11 : FOOD#STYLE_OPTIONS is postive 
+Source 12 : from bread was from the salad was overpriced and from 
+Truth 12 : | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is negative | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 12 : FOOD#QUALITY is postive 
+Source 13 : from is no way it from the from it from the attitude of the staff or the wait for a from 
+Truth 13 : | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 13 : AMBIENCE#GENERAL is postive AMBIENCE#GENERAL 
+Source 14 : from chicken from is my from most of the dishes from have to from with a previous from are quite oily and very from from the from from 
+Truth 14 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is negative | A FOOD#QUALITY | P is negative 
+Sample 14 : RESTAURANT#PRICES is postive 
+Source 15 : from menu looked from and the waiter was very from but when the food from it was from 
+Truth 15 : | A FOOD#STYLE_OPTIONS | P is postive | A SERVICE#GENERAL | P is postive | A FOOD#QUALITY | P is neutral 
+Sample 15 : LOCATION#GENERAL is postive 
+Source 16 : from sashimi is always fresh and the rolls are innovative and from 
+Truth 16 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#QUALITY | P is postive 
+Sample 16 : AMBIENCE#GENERAL is postive 
+Source 17 : from than preparing vegetarian from the chef presented me with a plate of steamed vegetables from from from or any from or aesthetic from 
+Truth 17 : | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is negative | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 17 : SERVICE#GENERAL is negative AMBIENCE#GENERAL is negative 
+Source 18 : from food is from plentiful and reasonably from 
+Truth 18 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#PRICES | P is postive 
+Sample 18 : 
+Source 19 : from special roll and one regular roll is enough to fill you from but save room for from 
+Truth 19 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 19 : 
+Source 20 : from from the from place in the back really from to it but needs a bit more from from on a cold from 
+Truth 20 : | A AMBIENCE#GENERAL | P is postive | A AMBIENCE#GENERAL | P is postive | A AMBIENCE#GENERAL | P is negative 
+Sample 20 : 
+Source 21 : from what you really end up paying for is the restaurant not the from 
+Truth 21 : | A RESTAURANT#PRICES | P is negative | A AMBIENCE#GENERAL | P is neutral | A FOOD#QUALITY | P is negative 
+Sample 21 : FOOD#STYLE_OPTIONS is negative 
+Source 22 : from have great from the from from and from from are awesome and from 
+Truth 22 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 22 : RESTAURANT#MISCELLANEOUS is postive 
+Source 23 : never from never a bad from never bad from 
+Truth 23 : 
+Sample 23 : 
+Source 24 : from a restaurant with such a good from and that is usually so from there was no from for such a from of from customer from 
+Truth 24 : | A RESTAURANT#MISCELLANEOUS | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 24 : AMBIENCE#GENERAL is postive 
+Source 25 : from at from is from as are the from with from 
+Truth 25 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 25 : RESTAURANT#PRICES is postive 
+Source 26 : from drinks are from especially when made by from 
+Truth 26 : | A DRINKS#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 26 : 
+Source 27 : from service was spectacular as the waiter knew everything about the menu and his from were from 
+Truth 27 : | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 27 : SERVICE#GENERAL is postive AMBIENCE#GENERAL is negative FOOD#QUALITY 
+Source 28 : from from a gorgeous from from from which included a four course prix fix menu which we enjoyed a from 
+Truth 28 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is postive 
+Sample 28 : 
+Source 29 : from place from for a romantic dinner 
+Truth 29 : | A AMBIENCE#GENERAL | P is postive | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 29 : RESTAURANT#MISCELLANEOUS is postive 
+Source 30 : from from it to the from and he from from and brought us two free desserts from did not ask us what we wanted and so brought the last two desserts we would have asked from 
+Truth 30 : | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 30 : SERVICE#GENERAL is negative 
+Source 31 : from the from belly from as you enjoy delicious from from from more from than from 
+Truth 31 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is postive 
+Sample 31 : 
+Source 0 : from have never been so from by both food an from 
+Truth 0 : | A FOOD#QUALITY | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 0 : 
+Source 1 : from needs to be from but the food is from 
+Truth 1 : | A AMBIENCE#GENERAL | P is negative | A FOOD#QUALITY | P is postive 
+Sample 1 : 
+Source 2 : from have gone for dinner only a few times but the same great quality and service is from 
+Truth 2 : | A SERVICE#GENERAL | P is postive | A FOOD#QUALITY | P is postive 
+Sample 2 : AMBIENCE#GENERAL is postive SERVICE#GENERAL is postive FOOD#QUALITY 
+Source 3 : from lunch buffet is expensive but is from worth from 
+Truth 3 : | A FOOD#PRICES | P is negative | A FOOD#QUALITY | P is postive 
+Sample 3 : 
+Source 4 : from from was from but the from from from even close to from 
+Truth 4 : | A FOOD#QUALITY | P is neutral | A FOOD#QUALITY | P is negative 
+Sample 4 : 
+Source 5 : i love from pizza from i from east village pizza 
+Truth 5 : 
+Sample 5 : FOOD#QUALITY is postive 
+Source 6 : from side dishes were from and from did get a from upon from 
+Truth 6 : | A FOOD#QUALITY | P is neutral | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 6 : 
+Source 7 : from from look appetizing as from from in from from and it from your from and from from but the taste was from 
+Truth 7 : | A FOOD#STYLE_OPTIONS | P is negative | A FOOD#QUALITY | P is postive 
+Sample 7 : 
+Source 8 : from creative from 
+Truth 8 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 8 : 
+Source 9 : from from tasted like it had been made by a from old with no sense of from or from 
+Truth 9 : | A FOOD#QUALITY | P is negative | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 9 : 
+Source 10 : from from for a plate of bland from 
+Truth 10 : | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is negative 
+Sample 10 : 
+Source 11 : from have a delicious banana chocolate from as well as a great green tea from 
+Truth 11 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 11 : 
+Source 12 : from from great from 
+Truth 12 : 
+Sample 12 : 
+Source 13 : from from usually visit the same establishment more than from what more from but from come to from anytime for a from from and memorable from 
+Truth 13 : 
+Sample 13 : SERVICE#GENERAL is negative 
+Source 14 : from it was the great company from had friends visiting from from from from it was not a date this from or the super reasonable price from but from just from say enough good things about this from 
+Truth 14 : 
+Sample 14 : FOOD#QUALITY is postive 
+Source 15 : from from we tried the frozen from from from from but not from and from from green from and from from which was from 
+Truth 15 : | A FOOD#QUALITY | P is neutral | A FOOD#QUALITY | P is postive 
+Sample 15 : 
+Source 16 : from atmosphere was pretty nice but had a bit from which it from to make up for with a from from of from 
+Truth 16 : | A AMBIENCE#GENERAL | P is negative | A AMBIENCE#GENERAL | P is negative 
+Sample 16 : RESTAURANT#MISCELLANEOUS is postive 
+Source 17 : from from the from from from as my from which from absolutely devoured while someone from that the from from dish was from 
+Truth 17 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 17 : RESTAURANT#PRICES is postive 
+Source 18 : from party had the from from fixe prix from which was such a wonderful deal since it also came with a from of from 
+Truth 18 : | A FOOD#PRICES | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 18 : FOOD#QUALITY is postive 
+Source 19 : from just you and your date and an from cute from from before the waiter from the little from to your from 
+Truth 19 : | A AMBIENCE#GENERAL | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 19 : FOOD#QUALITY is negative 
+Source 20 : from the from from this will likely be my from for modern from food for the from from 
+Truth 20 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is negative 
+Sample 20 : 
+Source 21 : from is from my favorite modern from from from from serve from and in my from one of the most romantic restaurants in the from 
+Truth 21 : 
+Sample 21 : 
+Source 22 : from from like the from pizza from but they are all from 
+Truth 22 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 22 : AMBIENCE#GENERAL is negative 
+Source 23 : from a very fancy place but very good from style from from 
+Truth 23 : | A AMBIENCE#GENERAL | P is neutral | A FOOD#QUALITY | P is postive 
+Sample 23 : RESTAURANT#MISCELLANEOUS is postive 
+Source 24 : from highly recommend this beautiful from 
+Truth 24 : | A AMBIENCE#GENERAL | P is postive 
+Sample 24 : 
+Source 25 : from from from places or people that try to drive up the bill without the from from so that was a huge from from than the from 
+Truth 25 : | A SERVICE#GENERAL | P is negative | A RESTAURANT#PRICES | P is negative 
+Sample 25 : RESTAURANT#MISCELLANEOUS is postive 
+Source 26 : from if from prepared to spend some $ and remember to ask if something they offer is from then this is the place to go for from food 
+Truth 26 : | A FOOD#QUALITY | P is postive | A RESTAURANT#PRICES | P is negative 
+Sample 26 : RESTAURANT#MISCELLANEOUS is postive 
+Source 27 : from all the looks of the place from the from from 
+Truth 27 : | A AMBIENCE#GENERAL | P is postive | A FOOD#QUALITY | P is negative 
+Sample 27 : FOOD#QUALITY is postive 
+Source 28 : from the from from and from dishes are from but the from is the from to from you from eat one your trip was from 
+Truth 28 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 28 : FOOD#QUALITY is postive AMBIENCE#GENERAL 
+Source 29 : from pudding is exactly the type of service and food from from 
+Truth 29 : | A SERVICE#GENERAL | P is postive | A FOOD#QUALITY | P is postive 
+Sample 29 : SERVICE#GENERAL is postive 
+Source 30 : from literally just got back home after visiting from from from and was so from by my visit felt it from to try and warn other from who value their money and from 
+Truth 30 : 
+Sample 30 : FOOD#QUALITY is negative FOOD#QUALITY is postive FOOD#QUALITY is negative 
+Source 31 : from am actually from to have spent so much money on such a bad from 
+Truth 31 : 
+Sample 31 : 
+Source 0 : from from of from from 
+Truth 0 : 
+Sample 0 : 
+Source 1 : from was just from it is not what from expect for from 
+Truth 1 : | A SERVICE#GENERAL | P is negative | A RESTAURANT#PRICES | P is negative 
+Sample 1 : 
+Source 2 : from wine list was extensive - though the staff did not seem from about wine from 
+Truth 2 : | A DRINKS#STYLE_OPTIONS | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 2 : AMBIENCE#GENERAL is postive 
+Source 3 : from from from from from had different waiters and they were all from which is a rare thing in from 
+Truth 3 : | A SERVICE#GENERAL | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 3 : RESTAURANT#MISCELLANEOUS is postive 
+Source 4 : from from is very upscale and you will see a lot of rich guys with from from or just highly paid from 
+Truth 4 : | A AMBIENCE#GENERAL | P is neutral | A RESTAURANT#MISCELLANEOUS | P is neutral 
+Sample 4 : AMBIENCE#GENERAL is negative 
+Source 5 : from from is from from have been there for my birthday and a from of other times with friends and from keep going from 
+Truth 5 : | A AMBIENCE#GENERAL | P is postive 
+Sample 5 : 
+Source 6 : from in from the food was great from for the from 
+Truth 6 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is negative 
+Sample 6 : 
+Source 7 : from wanted to go there to see if it was worth it and from from got the best of me and from paid from for from 
+Truth 7 : 
+Sample 7 : 
+Source 8 : from took some time to from all worth from from 
+Truth 8 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is neutral 
+Sample 8 : 
+Source 9 : from from from has from and it is a sort of from of from from from from but trust from they will charge you through the from just so that you can say from been to the four from from 
+Truth 9 : | A RESTAURANT#MISCELLANEOUS | P is neutral | A RESTAURANT#PRICES | P is negative 
+Sample 9 : SERVICE#GENERAL is postive 
+Source 10 : from read reviews that called the restaurant too expensive and from thought to from but may be it is worth from 
+Truth 10 : | A RESTAURANT#PRICES | P is negative 
+Sample 10 : RESTAURANT#MISCELLANEOUS is negative 
+Source 11 : from from from in a from of some kind and some from from thing from impressive at from 
+Truth 11 : | A FOOD#STYLE_OPTIONS | P is negative | A FOOD#QUALITY | P is negative 
+Sample 11 : RESTAURANT#MISCELLANEOUS is postive 
+Source 12 : from had fish and my husband had the filet - both of which exceeded our from 
+Truth 12 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 12 : 
+Source 13 : from dessert from had a from from was good - from once from the staff was from to from appropriate drink from 
+Truth 13 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 13 : SERVICE#GENERAL is postive 
+Source 14 : from food and service 
+Truth 14 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is postive 
+Sample 14 : 
+Source 15 : from the place is from and from but they most certainly from the from from from the common from that wants to go all out every once in a from 
+Truth 15 : | A AMBIENCE#GENERAL | P is postive | A RESTAURANT#PRICES | P is negative 
+Sample 15 : 
+Source 16 : from the end you end up with a fair from and from from from from from 
+Truth 16 : | A RESTAURANT#PRICES | P is postive 
+Sample 16 : RESTAURANT#MISCELLANEOUS is postive 
+Source 17 : from from not return but it is a great from experience to try from from 
+Truth 17 : 
+Sample 17 : 
+Source 18 : from visit their to say the from was an from and from from 
+Truth 18 : 
+Sample 18 : 
+Source 19 : from even more so from because it was so from for such an from from 
+Truth 19 : 
+Sample 19 : RESTAURANT#MISCELLANEOUS is postive 
+Source 20 : from martinis are amazing and very fairly from 
+Truth 20 : | A DRINKS#QUALITY | P is postive | A DRINKS#PRICES | P is postive 
+Sample 20 : RESTAURANT#PRICES is postive 
+Source 21 : from though the place is not from the food speaks for from 
+Truth 21 : | A AMBIENCE#GENERAL | P is negative | A FOOD#QUALITY | P is postive 
+Sample 21 : 
+Source 22 : from from from from but done really from 
+Truth 22 : | A FOOD#STYLE_OPTIONS | P is neutral | A FOOD#QUALITY | P is postive 
+Sample 22 : 
+Source 23 : from in all the food was good - a little on the expensive from but from 
+Truth 23 : | A FOOD#QUALITY | P is postive | A FOOD#PRICES | P is negative 
+Sample 23 : 
+Source 24 : great toppings definitely a place you need to check out for late night from or a from day from 
+Truth 24 : | A FOOD#QUALITY | P is postive | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 24 : FOOD#QUALITY is postive 
+Source 25 : from creative and from 
+Truth 25 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 25 : 
+Source 26 : from lobster from from of the from were from but pretty from 
+Truth 26 : | A FOOD#STYLE_OPTIONS | P is neutral | A FOOD#QUALITY | P is negative 
+Sample 26 : 
+Source 27 : amazing fun for hot from from of all from from do yourself a from and check this place from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from me dishes a little from but overall dining experience from 
+Truth 28 : | A FOOD#QUALITY | P is negative 
+Sample 28 : RESTAURANT#MISCELLANEOUS is postive 
+Source 29 : from enjoyed from of the dishes from ordered with the only from being the from from dish from a daring eater but not from from 
+Truth 29 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is negative 
+Sample 29 : FOOD#QUALITY is postive 
+Source 30 : from have never left a restaurant from as if i was from and from my hard from from 
+Truth 30 : 
+Sample 30 : 
+Source 31 : from it seemed from to do so while there from would have from my bill since my dinner portion of my meal was from 
+Truth 31 : | A FOOD#QUALITY | P is negative | A RESTAURANT#PRICES | P is negative 
+Sample 31 : AMBIENCE#GENERAL is postive 
+Source 0 : from service and average price per dish from 
+Truth 0 : | A SERVICE#GENERAL | P is postive | A FOOD#PRICES | P is neutral 
+Sample 0 : 
+Source 1 : amazing fresh from but best of all from from 
+Truth 1 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 1 : 
+Source 2 : from flavors are amazing and the value is from 
+Truth 2 : | A FOOD#QUALITY | P is postive | A FOOD#PRICES | P is postive 
+Sample 2 : FOOD#QUALITY is postive 
+Source 3 : from would not expect this for a from from 
+Truth 3 : | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is negative 
+Sample 3 : 
+Source 4 : from ok but from from 
+Truth 4 : | A SERVICE#GENERAL | P is negative | A AMBIENCE#GENERAL | P is negative 
+Sample 4 : 
+Source 5 : from prepared to from because the place is pretty from 
+Truth 5 : | A RESTAURANT#MISCELLANEOUS | P is negative | A AMBIENCE#GENERAL | P is negative 
+Sample 5 : 
+Source 6 : from our from drinks were were from 
+Truth 6 : | A DRINKS#QUALITY | P is negative | A DRINKS#PRICES | P is negative 
+Sample 6 : 
+Source 7 : from are fair across the from for both food and from 
+Truth 7 : | A FOOD#PRICES | P is postive | A DRINKS#PRICES | P is postive 
+Sample 7 : RESTAURANT#PRICES is postive 
+Source 8 : from down the from 
+Truth 8 : 
+Sample 8 : 
+Source 9 : from wish from could like this place from and from wish someone would from the from 
+Truth 9 : 
+Sample 9 : 
+Source 10 : from from salad and the mashed from potatoes were also extremely from 
+Truth 10 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 10 : 
+Source 11 : from took one bite from the from from and from have from in the from years from have been going to restaurants tasted salmon as from as from and as bland as the one in from from 
+Truth 11 : | A FOOD#QUALITY | P is negative | A FOOD#PRICES | P is negative 
+Sample 11 : FOOD#QUALITY is negative 
+Source 12 : from the hot from is from to the from of a real entree with from from from 
+Truth 12 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 12 : 
+Source 13 : from highly recommend the fish from everything else was from 
+Truth 13 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is neutral 
+Sample 13 : 
+Source 14 : from service and management 
+Truth 14 : | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 14 : RESTAURANT#MISCELLANEOUS is postive 
+Source 15 : from thought the restaurant was nice and from 
+Truth 15 : 
+Sample 15 : 
+Source 16 : from veal and the from were cooked from 
+Truth 16 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 16 : 
+Source 17 : from paid just about from for a good from though from 
+Truth 17 : | A FOOD#QUALITY | P is postive | A FOOD#PRICES | P is postive 
+Sample 17 : 
+Source 18 : from was served with from over a from of extremely from spinach and mashed from 
+Truth 18 : | A FOOD#STYLE_OPTIONS | P is negative | A FOOD#QUALITY | P is negative 
+Sample 18 : 
+Source 19 : from no flavor and the staff is rude and not from 
+Truth 19 : | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is negative 
+Sample 19 : AMBIENCE#GENERAL is negative 
+Source 20 : from would never recommend this place to anybody even for a casual from 
+Truth 20 : 
+Sample 20 : 
+Source 21 : from was going good from we got our from 
+Truth 21 : 
+Sample 21 : 
+Source 22 : from from although the interior could use some from 
+Truth 22 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is negative 
+Sample 22 : RESTAURANT#MISCELLANEOUS is postive 
+Source 23 : overpriced japanese food with mediocre service 
+Truth 23 : | A FOOD#PRICES | P is negative | A SERVICE#GENERAL | P is neutral 
+Sample 23 : FOOD#QUALITY is negative 
+Source 24 : from the food quality was pretty from though from hear the salmon is much better when it from sat from in from of the from 
+Truth 24 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 24 : FOOD#QUALITY is postive FOOD#QUALITY is postive 
+Source 25 : from from their from from as well as their from 
+Truth 25 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 25 : 
+Source 26 : from first from this place seems a bit pricey for a hot from from but at from you from just get your average hot from 
+Truth 26 : | A RESTAURANT#PRICES | P is negative | A FOOD#QUALITY | P is postive 
+Sample 26 : FOOD#STYLE_OPTIONS is negative 
+Source 27 : the crust was from cooked well and pizza was fully from 
+Truth 27 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 27 : FOOD#QUALITY is postive 
+Source 28 : from hostess was rude and from got a from from that they did not want to serve from 
+Truth 28 : | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 28 : SERVICE#GENERAL is negative SERVICE#GENERAL 
+Source 29 : from from been crowded most times from gone from from always from on their from 
+Truth 29 : | A FOOD#QUALITY | P is postive | A RESTAURANT#MISCELLANEOUS | P is neutral 
+Sample 29 : 
+Source 30 : from from from great from 
+Truth 30 : 
+Sample 30 : 
+Source 31 : from food for great prices 
+Truth 31 : | A FOOD#QUALITY | P is postive | A FOOD#PRICES | P is postive 
+Sample 31 : 
+Source 0 : from to from is always worth the from from and will make your from and belly very from 
+Truth 0 : 
+Sample 0 : 
+Source 1 : from from my favorite is the seafood from 
+Truth 1 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 1 : 
+Source 2 : from you will spend at least from a from from expect better from 
+Truth 2 : | A SERVICE#GENERAL | P is negative | A RESTAURANT#PRICES | P is negative 
+Sample 2 : RESTAURANT#MISCELLANEOUS is postive 
+Source 3 : from hot from are top from and from from is from 
+Truth 3 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 3 : 
+Source 4 : not only is the food 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : 
+Source 5 : from from from 
+Truth 5 : | A FOOD#QUALITY | P is postive | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 5 : 
+Source 6 : from not from from about this from but it was a fun time for low from 
+Truth 6 : 
+Sample 6 : 
+Source 7 : from place is a bit hidden from but once you get from from all worth from 
+Truth 7 : | A LOCATION#GENERAL | P is neutral 
+Sample 7 : FOOD#QUALITY is postive 
+Source 8 : from and calamari were superb from from 
+Truth 8 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 8 : 
+Source 9 : from cheap but very from 
+Truth 9 : | A FOOD#PRICES | P is negative | A FOOD#QUALITY | P is postive 
+Sample 9 : 
+Source 10 : from food is great and the from is even from 
+Truth 10 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is postive 
+Sample 10 : AMBIENCE#GENERAL is postive 
+Source 11 : from from and the from roll is from from 
+Truth 11 : | A FOOD#QUALITY | P is postive | A FOOD#QUALITY | P is postive 
+Sample 11 : 
+Source 12 : from different server from the from from our entrees in from of us from through our appetizer from was from 
+Truth 12 : | A SERVICE#GENERAL | P is negative | A FOOD#QUALITY | P is postive 
+Sample 12 : 
+Source 13 : from believe how an expensive from restaurant can be so from to its from 
+Truth 13 : | A RESTAURANT#PRICES | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 13 : 
+Source 14 : from food - if the from of house staff from from you off from 
+Truth 14 : | A FOOD#QUALITY | P is postive | A SERVICE#GENERAL | P is negative 
+Sample 14 : AMBIENCE#GENERAL is postive 
+Source 15 : from was there for brunch from and we were from from by a waitress and a from 
+Truth 15 : | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 15 : 
+Source 16 : from on this place for the horrible rude staff and from customer from 
+Truth 16 : | A SERVICE#GENERAL | P is negative | A SERVICE#GENERAL | P is negative 
+Sample 16 : RESTAURANT#PRICES is postive 
+Source 17 : from food we ordered was from although from from say the from were anything to write home from 
+Truth 17 : | A FOOD#QUALITY | P is postive | A DRINKS#QUALITY | P is neutral 
+Sample 17 : AMBIENCE#GENERAL is postive AMBIENCE#GENERAL is postive FOOD#QUALITY is postive 
+Source 18 : from all it was a very nice romantic place . 
+Truth 18 : 
+Sample 18 : RESTAURANT#MISCELLANEOUS is postive 
+Source 19 : from go to from and order the from from from 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from food was great and from but the sitting space was too from from from like being from in a from 
+Truth 20 : | A FOOD#QUALITY | P is postive | A AMBIENCE#GENERAL | P is negative 
+Sample 20 : FOOD#QUALITY is postive 
+Source 21 : from was totally from fish and chips was about from 
+Truth 21 : | A FOOD#PRICES | P is negative | A FOOD#PRICES | P is negative 
+Sample 21 : RESTAURANT#MISCELLANEOUS is postive 
+Source 22 : from from be back and from wait to visit in the summer to take from of the from 
+Truth 22 : | A AMBIENCE#GENERAL | P is postive 
+Sample 22 : 
+Source 23 : from and not tasty 
+Truth 23 : | A FOOD#PRICES | P is negative | A FOOD#QUALITY | P is negative 
+Sample 23 : 
+Source 24 : from place is not from and the food is totally from 
+Truth 24 : | A AMBIENCE#GENERAL | P is negative | A FOOD#QUALITY | P is negative 
+Sample 24 : 
+Source 25 : from awesome organic from and a from from friendly from 
+Truth 25 : | A FOOD#QUALITY | P is postive | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 25 : 
+Source 26 : from place has totally weird from from going up with from from - from am surprised how no one yet from their head or from off the from - from from make you from and from 
+Truth 26 : | A AMBIENCE#GENERAL | P is negative | A AMBIENCE#GENERAL | P is negative 
+Sample 26 : AMBIENCE#GENERAL is postive 
+Source 27 : from of my favorite places in from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from from 
+Truth 28 : 
+Sample 28 : 
+Source 29 : from place has from me for neighborhood from 
+Truth 29 : | A FOOD#QUALITY | P is postive 
+Sample 29 : 
+Source 30 : from food was ok and fair nothing to go from 
+Truth 30 : | A FOOD#QUALITY | P is neutral 
+Sample 30 : 
+Source 31 : from floor was from the from can filled with hand from from all over the from no from and no hand from from 
+Truth 31 : | A AMBIENCE#GENERAL | P is negative 
+Sample 31 : AMBIENCE#GENERAL is postive 
+Source 0 : from wait staff is very courteous and from 
+Truth 0 : | A SERVICE#GENERAL | P is postive 
+Sample 0 : 
+Source 1 : from do not from 
+Truth 1 : 
+Sample 1 : RESTAURANT#MISCELLANEOUS is postive 
+Source 2 : from recommend this place to from 
+Truth 2 : 
+Sample 2 : 
+Source 3 : from husband and from have been from on this from the first from 
+Truth 3 : 
+Sample 3 : 
+Source 4 : from boths are not as small as some of the reviews make them out to look from perfect for 2 from 
+Truth 4 : | A AMBIENCE#GENERAL | P is postive 
+Sample 4 : AMBIENCE#GENERAL is postive 
+Source 5 : short and sweet from seating is from from and from 
+Truth 5 : | A AMBIENCE#GENERAL | P is postive 
+Sample 5 : 
+Source 6 : from 
+Truth 6 : 
+Sample 6 : 
+Source 7 : from from 
+Truth 7 : | A FOOD#QUALITY | P is postive 
+Sample 7 : 
+Source 8 : from got from in my food 2 times of then ! 
+Truth 8 : | A FOOD#QUALITY | P is negative 
+Sample 8 : 
+Source 9 : from we from about from - the waitress listed off several but did not know taste from or from 
+Truth 9 : | A SERVICE#GENERAL | P is negative 
+Sample 9 : RESTAURANT#MISCELLANEOUS is postive 
+Source 10 : from is open till from no from from 
+Truth 10 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 10 : 
+Source 11 : from from 
+Truth 11 : 
+Sample 11 : 
+Source 12 : from very nice 
+Truth 12 : 
+Sample 12 : 
+Source 13 : from food here was mediocre at from 
+Truth 13 : | A FOOD#QUALITY | P is negative 
+Sample 13 : 
+Source 14 : from our main course was from 
+Truth 14 : | A FOOD#QUALITY | P is postive 
+Sample 14 : 
+Source 15 : from from 
+Truth 15 : 
+Sample 15 : 
+Source 16 : from from 
+Truth 16 : | A FOOD#QUALITY | P is postive 
+Sample 16 : 
+Source 17 : from from 
+Truth 17 : 
+Sample 17 : 
+Source 18 : from had a very nice from 
+Truth 18 : 
+Sample 18 : 
+Source 19 : from definitely go back from 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from place to relax and enjoy your dinner 
+Truth 20 : | A AMBIENCE#GENERAL | P is postive 
+Sample 20 : 
+Source 21 : from is something about their atmosphere that makes me come back nearly every from 
+Truth 21 : | A AMBIENCE#GENERAL | P is postive 
+Sample 21 : 
+Source 22 : from a great place to order from or from 
+Truth 22 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 22 : 
+Source 23 : from atmosphere is relaxed and from 
+Truth 23 : | A AMBIENCE#GENERAL | P is postive 
+Sample 23 : 
+Source 24 : from from from 
+Truth 24 : 
+Sample 24 : 
+Source 25 : from 
+Truth 25 : | A FOOD#QUALITY | P is negative 
+Sample 25 : 
+Source 26 : from the bill from nothing was from so from told the manager very from that we were from to pay for the from but from from think from should have to pay for food with a from in from 
+Truth 26 : | A SERVICE#GENERAL | P is negative 
+Sample 26 : SERVICE#GENERAL is negative 
+Source 27 : from from restaurant has a lot going for from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from from for from wish they have it here in from 
+Truth 28 : 
+Sample 28 : 
+Source 29 : from had fun eating in from we were there like around 3 from in the from 
+Truth 29 : 
+Sample 29 : 
+Source 30 : from from from from from you from from 
+Truth 30 : | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 30 : 
+Source 31 : from from from my from and from when from found a from in mushroom sauce at the from 
+Truth 31 : | A FOOD#QUALITY | P is negative 
+Sample 31 : 
+Source 0 : from had from from mine was from and my friend had the from and it was sooo huge for a small size from 
+Truth 0 : | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 0 : 
+Source 1 : from the best pork from from ever had is the main from 
+Truth 1 : | A FOOD#QUALITY | P is postive 
+Sample 1 : FOOD#QUALITY is postive 
+Source 2 : from from from from from from from 
+Truth 2 : 
+Sample 2 : 
+Source 3 : from in the from 
+Truth 3 : | A FOOD#QUALITY | P is negative 
+Sample 3 : 
+Source 4 : from into from from from last night was a true experience from any other in from from 
+Truth 4 : 
+Sample 4 : AMBIENCE#GENERAL is postive 
+Source 5 : from was visiting from from from with a friend and we from this really warm and from from 
+Truth 5 : | A AMBIENCE#GENERAL | P is postive 
+Sample 5 : 
+Source 6 : from have a great from with from from and lemon and from juice and mint leaves that is to die from 
+Truth 6 : | A DRINKS#QUALITY | P is postive 
+Sample 6 : FOOD#QUALITY is postive 
+Source 7 : from from from 
+Truth 7 : | A FOOD#QUALITY | P is postive 
+Sample 7 : 
+Source 8 : from were from into the belly from from that from the from 
+Truth 8 : | A AMBIENCE#GENERAL | P is postive 
+Sample 8 : AMBIENCE#GENERAL is postive 
+Source 9 : from find in the from from 
+Truth 9 : 
+Sample 9 : 
+Source 10 : this place had from the from and i mean from 
+Truth 10 : | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 10 : 
+Source 11 : from wait to go from 
+Truth 11 : 
+Sample 11 : 
+Source 12 : from never write on these from but this restaurant is from worth from 
+Truth 12 : 
+Sample 12 : 
+Source 13 : from go out to eat and like my from servers are patient and never rush from or from another from 
+Truth 13 : | A SERVICE#GENERAL | P is postive 
+Sample 13 : 
+Source 14 : from 
+Truth 14 : 
+Sample 14 : 
+Source 15 : from from sometimes get from if you from tip more than from 
+Truth 15 : | A SERVICE#GENERAL | P is negative 
+Sample 15 : AMBIENCE#GENERAL is postive 
+Source 16 : from can be spot on or lacking depending on the weather and the day of the from 
+Truth 16 : | A SERVICE#GENERAL | P is negative 
+Sample 16 : 
+Source 17 : from never had a problem with service save a missing rice from 
+Truth 17 : | A SERVICE#GENERAL | P is postive 
+Sample 17 : AMBIENCE#GENERAL is postive 
+Source 18 : from from from 
+Truth 18 : | A FOOD#QUALITY | P is postive 
+Sample 18 : 
+Source 19 : from of the best hot from from have ever from 
+Truth 19 : | A FOOD#QUALITY | P is postive 
+Sample 19 : 
+Source 20 : from are all from from is my from 
+Truth 20 : | A SERVICE#GENERAL | P is postive 
+Sample 20 : 
+Source 21 : from tables from understand his sense of from but from refreshing to have a server who has from from and from the from of your from 
+Truth 21 : | A SERVICE#GENERAL | P is postive 
+Sample 21 : 
+Source 22 : from is the first place from been that a from from my from from he likes his from because from have half a mind to from him for my from 
+Truth 22 : | A SERVICE#GENERAL | P is postive 
+Sample 22 : RESTAURANT#MISCELLANEOUS is neutral 
+Source 23 : from from 
+Truth 23 : | A DRINKS#QUALITY | P is postive 
+Sample 23 : 
+Source 24 : from have from in restaurants and from a from and there is no way a from should be able to get into well prepared from 
+Truth 24 : | A FOOD#QUALITY | P is negative 
+Sample 24 : SERVICE#GENERAL is postive AMBIENCE#GENERAL is postive 
+Source 25 : from paid and left because we from feel like from any from 
+Truth 25 : | A SERVICE#GENERAL | P is negative 
+Sample 25 : 
+Source 26 : from space kind of feels like an from in from from without it trying to be from 
+Truth 26 : | A AMBIENCE#GENERAL | P is negative 
+Sample 26 : 
+Source 27 : oh from of bathroom , the from bathroom was from 
+Truth 27 : | A AMBIENCE#GENERAL | P is negative 
+Sample 27 : 
+Source 28 : from manager finally said he would from the two from of wine from cost less than the from and made it seem like a big from 
+Truth 28 : | A SERVICE#GENERAL | P is negative 
+Sample 28 : RESTAURANT#MISCELLANEOUS is postive 
+Source 29 : from from from 
+Truth 29 : | A FOOD#QUALITY | P is postive 
+Sample 29 : 
+Source 30 : from from remember the last time from had such gross food in from from 
+Truth 30 : | A FOOD#QUALITY | P is negative 
+Sample 30 : 
+Source 31 : from thought the dessert would be from from 
+Truth 31 : | A FOOD#QUALITY | P is negative 
+Sample 31 : 
+Source 0 : from for one time special from 
+Truth 0 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 0 : 
+Source 1 : from experience was from with my from 
+Truth 1 : | A FOOD#QUALITY | P is postive 
+Sample 1 : 
+Source 2 : food was from from 
+Truth 2 : | A FOOD#QUALITY | P is negative 
+Sample 2 : 
+Source 3 : from from reservation on from afternoon very from 
+Truth 3 : | A SERVICE#GENERAL | P is postive 
+Sample 3 : 
+Source 4 : from were offered water for the table but were not told the from bottles of water were from a from 
+Truth 4 : | A DRINKS#PRICES | P is negative 
+Sample 4 : AMBIENCE#GENERAL is neutral 
+Source 5 : from was from 
+Truth 5 : | A FOOD#QUALITY | P is neutral 
+Sample 5 : 
+Source 6 : from view of river and from 
+Truth 6 : | A LOCATION#GENERAL | P is postive 
+Sample 6 : RESTAURANT#MISCELLANEOUS is postive 
+Source 7 : from come here enjoy very much with from 
+Truth 7 : 
+Sample 7 : RESTAURANT#MISCELLANEOUS is postive 
+Source 8 : from me of from 
+Truth 8 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 8 : 
+Source 9 : from from 
+Truth 9 : | A SERVICE#GENERAL | P is postive 
+Sample 9 : 
+Source 10 : from so delicious 
+Truth 10 : | A FOOD#QUALITY | P is postive 
+Sample 10 : 
+Source 11 : from beautifully from from from restaurant that gets from at from 
+Truth 11 : | A AMBIENCE#GENERAL | P is postive 
+Sample 11 : 
+Source 12 : from teriyaki had tomato or from on from 
+Truth 12 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 12 : 
+Source 13 : from and from from 
+Truth 13 : | A AMBIENCE#GENERAL | P is postive 
+Sample 13 : 
+Source 14 : from the bartender from 
+Truth 14 : | A SERVICE#GENERAL | P is postive 
+Sample 14 : RESTAURANT#MISCELLANEOUS is postive 
+Source 15 : from is a great place to from hang from 
+Truth 15 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 15 : 
+Source 16 : from here on sat from and was from 
+Truth 16 : 
+Sample 16 : 
+Source 17 : from from for brunch is from 
+Truth 17 : | A FOOD#QUALITY | P is postive 
+Sample 17 : 
+Source 18 : the spinach is from definately not from 
+Truth 18 : | A FOOD#QUALITY | P is postive 
+Sample 18 : RESTAURANT#MISCELLANEOUS is negative 
+Source 19 : the food is always fresh ... 
+Truth 19 : | A FOOD#QUALITY | P is postive 
+Sample 19 : FOOD#QUALITY is postive 
+Source 20 : from waitress was not attentive at from 
+Truth 20 : | A SERVICE#GENERAL | P is negative 
+Sample 20 : RESTAURANT#MISCELLANEOUS is postive 
+Source 21 : from was looking for banana tempura for dessert and they dont from 
+Truth 21 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 21 : FOOD#QUALITY is postive 
+Source 22 : from from is the chicken in the from 
+Truth 22 : | A FOOD#QUALITY | P is negative 
+Sample 22 : 
+Source 23 : from because you are from from from from you are allowed to charge an from and a from for a from from 
+Truth 23 : | A RESTAURANT#PRICES | P is negative 
+Sample 23 : FOOD#QUALITY is negative 
+Source 24 : from from from from from from from from from from from from from from from 
+Truth 24 : 
+Sample 24 : 
+Source 25 : from from 
+Truth 25 : 
+Sample 25 : 
+Source 26 : from from from from and from rolls are from 
+Truth 26 : | A FOOD#QUALITY | P is postive 
+Sample 26 : AMBIENCE#GENERAL is postive 
+Source 27 : from get me started on the from from 
+Truth 27 : | A DRINKS#QUALITY | P is negative 
+Sample 27 : RESTAURANT#PRICES is postive 
+Source 28 : from tasted like the bartender had forgotten to add the from 
+Truth 28 : | A DRINKS#QUALITY | P is negative 
+Sample 28 : FOOD#QUALITY is negative 
+Source 29 : from your money and your time and go somewhere from 
+Truth 29 : 
+Sample 29 : 
+Source 30 : from and from never write from just was so moved by how bad this place from from felt it was my from to from the from 
+Truth 30 : 
+Sample 30 : 
+Source 31 : from from from 
+Truth 31 : | A FOOD#QUALITY | P is postive 
+Sample 31 : 
+Source 0 : from from got there the place was packed but they made sure to seat me from 
+Truth 0 : | A SERVICE#GENERAL | P is postive 
+Sample 0 : SERVICE#GENERAL is negative 
+Source 1 : from the summer from the back garden area is really from 
+Truth 1 : | A AMBIENCE#GENERAL | P is postive 
+Sample 1 : RESTAURANT#PRICES is neutral 
+Source 2 : from from in from 
+Truth 2 : | A FOOD#QUALITY | P is postive 
+Sample 2 : 
+Source 3 : from noticed alot of indian people from there which is a great from for an indian from 
+Truth 3 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 3 : SERVICE#GENERAL is postive FOOD#QUALITY 
+Source 4 : from not even going to bother to describe from it speaks for from 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : RESTAURANT#MISCELLANEOUS is postive 
+Source 5 : from from from is also from 
+Truth 5 : | A FOOD#QUALITY | P is postive 
+Sample 5 : RESTAURANT#MISCELLANEOUS is postive 
+Source 6 : from staff is very from 
+Truth 6 : | A SERVICE#GENERAL | P is postive 
+Sample 6 : SERVICE#GENERAL is postive 
+Source 7 : from you from like from from from know what to tell from 
+Truth 7 : | A FOOD#QUALITY | P is postive 
+Sample 7 : FOOD#QUALITY is postive 
+Source 8 : from from from - my favorite thing to from of any food group - hands down 
+Truth 8 : | A FOOD#QUALITY | P is postive 
+Sample 8 : SERVICE#GENERAL is negative 
+Source 9 : from their drink from 
+Truth 9 : | A DRINKS#STYLE_OPTIONS | P is postive 
+Sample 9 : 
+Source 10 : from do not think dinner in from should cost from where from am not from off my from 
+Truth 10 : | A FOOD#PRICES | P is negative 
+Sample 10 : 
+Source 11 : awesome 
+Truth 11 : 
+Sample 11 : 
+Source 12 : from just from just from no seasoning on from 
+Truth 12 : | A FOOD#QUALITY | P is negative 
+Sample 12 : RESTAURANT#MISCELLANEOUS is postive 
+Source 13 : from stuff from was from like from 
+Truth 13 : | A FOOD#QUALITY | P is negative 
+Sample 13 : 
+Source 14 : from below average 
+Truth 14 : 
+Sample 14 : 
+Source 15 : from from and from there is always jazz music from when we from 
+Truth 15 : | A AMBIENCE#GENERAL | P is postive 
+Sample 15 : AMBIENCE#GENERAL is postive 
+Source 16 : from of the from from you to sit next to from without looking like from from 
+Truth 16 : | A AMBIENCE#GENERAL | P is postive 
+Sample 16 : FOOD#QUALITY is postive 
+Source 17 : from food is all shared so we get to order together and eat from 
+Truth 17 : | A FOOD#STYLE_OPTIONS | P is postive 
+Sample 17 : FOOD#QUALITY is neutral 
+Source 18 : lobster was from nothing from 
+Truth 18 : | A FOOD#QUALITY | P is neutral 
+Sample 18 : 
+Source 19 : from you try it for a special occasion from you from from 
+Truth 19 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 19 : 
+Source 20 : from be from for every from from from from 
+Truth 20 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 20 : SERVICE#GENERAL is postive 
+Source 21 : its from 
+Truth 21 : 
+Sample 21 : 
+Source 22 : i love their chicken pasta from remember the name but is sooo good 
+Truth 22 : | A FOOD#QUALITY | P is postive 
+Sample 22 : FOOD#QUALITY is neutral 
+Source 23 : my favorite place lol 
+Truth 23 : 
+Sample 23 : 
+Source 24 : the from 
+Truth 24 : 
+Sample 24 : 
+Source 25 : from a from from 
+Truth 25 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 25 : 
+Source 26 : from from from from at from from from the from from from our from 
+Truth 26 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 26 : 
+Source 27 : from food from from 
+Truth 27 : | A FOOD#QUALITY | P is negative 
+Sample 27 : 
+Source 28 : everyone was from from and from 
+Truth 28 : | A SERVICE#GENERAL | P is postive 
+Sample 28 : 
+Source 29 : from the maitre from was totally professional and always on top of from 
+Truth 29 : | A SERVICE#GENERAL | P is postive 
+Sample 29 : SERVICE#GENERAL is negative 
+Source 30 : from you everyone at from from 
+Truth 30 : 
+Sample 30 : 
+Source 31 : would from go from 
+Truth 31 : 
+Sample 31 : 
+Source 0 : from are no from to speak from 
+Truth 0 : 
+Sample 0 : 
+Source 1 : from bar drinks were from ok to say the from 
+Truth 1 : | A DRINKS#QUALITY | P is negative 
+Sample 1 : RESTAURANT#MISCELLANEOUS is postive 
+Source 2 : its just a fun place to from not a five star from 
+Truth 2 : 
+Sample 2 : 
+Source 3 : from is so from 
+Truth 3 : | A AMBIENCE#GENERAL | P is postive 
+Sample 3 : 
+Source 4 : from from personally from a from of the from and asparagus from 
+Truth 4 : | A FOOD#QUALITY | P is negative 
+Sample 4 : 
+Source 5 : from time from have a special occasion with my boyfriend from have a hard time going anywhere from 
+Truth 5 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 5 : 
+Source 6 : from from from from from from from 
+Truth 6 : 
+Sample 6 : 
+Source 7 : from be back for from 
+Truth 7 : 
+Sample 7 : 
+Source 8 : from from from in the from 
+Truth 8 : 
+Sample 8 : 
+Source 9 : from only from they only take cash which is from if you know about it ahead of from 
+Truth 9 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 9 : RESTAURANT#MISCELLANEOUS is postive 
+Source 10 : from potato from were not dry at from in fact it was from 
+Truth 10 : | A FOOD#QUALITY | P is postive 
+Sample 10 : 
+Source 11 : from small from from spot makes what many consider the best from in from from 
+Truth 11 : | A FOOD#QUALITY | P is postive 
+Sample 11 : 
+Source 12 : from ordered the from from from and from was pretty from 
+Truth 12 : | A FOOD#QUALITY | P is postive 
+Sample 12 : 
+Source 13 : from was from so that made me feel from 
+Truth 13 : | A SERVICE#GENERAL | P is postive 
+Sample 13 : RESTAURANT#MISCELLANEOUS is postive 
+Source 14 : from service was quick and from 
+Truth 14 : | A SERVICE#GENERAL | P is postive 
+Sample 14 : AMBIENCE#GENERAL is postive 
+Source 15 : from from here for the pizza so from from from on that yet but what from had was very from 
+Truth 15 : | A FOOD#QUALITY | P is postive 
+Sample 15 : FOOD#STYLE_OPTIONS is neutral 
+Source 16 : from love this place 
+Truth 16 : 
+Sample 16 : 
+Source 17 : from restaurant in from 
+Truth 17 : 
+Sample 17 : 
+Source 18 : from from 
+Truth 18 : 
+Sample 18 : 
+Source 19 : from from go back 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from veal was incredible last from 
+Truth 20 : | A FOOD#QUALITY | P is postive 
+Sample 20 : 
+Source 21 : from mind from from 
+Truth 21 : | A FOOD#QUALITY | P is postive 
+Sample 21 : 
+Source 22 : from place is a must from 
+Truth 22 : 
+Sample 22 : 
+Source 23 : from think the pizza is so overrated and was under from 
+Truth 23 : | A FOOD#QUALITY | P is negative 
+Sample 23 : 
+Source 24 : from a from from from 
+Truth 24 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 24 : 
+Source 25 : from was from 
+Truth 25 : | A SERVICE#GENERAL | P is postive 
+Sample 25 : 
+Source 26 : from of the from if not from from restaurants in from from from from in from 
+Truth 26 : 
+Sample 26 : 
+Source 27 : from from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from take from a new and from from of from is from and from right here in from 
+Truth 28 : | A SERVICE#GENERAL | P is negative 
+Sample 28 : RESTAURANT#MISCELLANEOUS is postive 
+Source 29 : from from is from 
+Truth 29 : | A SERVICE#GENERAL | P is negative 
+Sample 29 : 
+Source 30 : from from is from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : 
+Source 31 : from how many times can you pick up the same from from set of from from them from and from them down in exactly the same place instead of from a from at people who are there to from you make the from 
+Truth 31 : | A SERVICE#GENERAL | P is negative 
+Sample 31 : DRINKS#QUALITY is postive 
+Source 0 : from that from from a from 
+Truth 0 : 
+Sample 0 : 
+Source 1 : from is this from still from 
+Truth 1 : 
+Sample 1 : 
+Source 2 : from honestly from even know where to from 
+Truth 2 : 
+Sample 2 : AMBIENCE#GENERAL is postive 
+Source 3 : from arrived and were seated from which made us both from 
+Truth 3 : | A SERVICE#GENERAL | P is postive 
+Sample 3 : RESTAURANT#MISCELLANEOUS is postive 
+Source 4 : from took one look at the chicken and from was from 
+Truth 4 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 4 : 
+Source 5 : from this from the waitress comes over and from us if everything was from from was literally so from that from was from and from say from and guess from the waitress from from 
+Truth 5 : | A SERVICE#GENERAL | P is negative 
+Sample 5 : SERVICE#GENERAL is negative 
+Source 6 : from from from with my boyfriend again to see if maybe from could stomach the meat and spinach from but the spinach was so from that from just could not bite through from 
+Truth 6 : | A FOOD#QUALITY | P is negative 
+Sample 6 : FOOD#QUALITY is negative 
+Source 7 : from from even enjoy the mashed potatoes because it was hidden completely under the chicken and from 
+Truth 7 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 7 : RESTAURANT#MISCELLANEOUS is postive 
+Source 8 : from from decide to from back to the waitress because it was completely from 
+Truth 8 : | A FOOD#QUALITY | P is negative 
+Sample 8 : 
+Source 9 : from from from waited for from minutes before she came over and when she finally from she from from from from wish you would have said something from from from from 
+Truth 9 : | A SERVICE#GENERAL | P is negative 
+Sample 9 : FOOD#QUALITY is negative SERVICE#GENERAL is negative 
+Source 10 : from that she simply took our from walked from came back another from minutes from with the bill and the chicken on from 
+Truth 10 : | A SERVICE#GENERAL | P is negative 
+Sample 10 : DRINKS#STYLE_OPTIONS is postive 
+Source 11 : from desert from no from from 
+Truth 11 : | A SERVICE#GENERAL | P is negative 
+Sample 11 : 
+Source 12 : from is where it really really gets from the manager from there is absolutely nothing we can from from a matter of taste that she from like from and from from from from 
+Truth 12 : | A SERVICE#GENERAL | P is negative 
+Sample 12 : SERVICE#GENERAL is postive AMBIENCE#GENERAL 
+Source 13 : from no from no is there anything else from can get from no can from get you a drink to make up for from from 
+Truth 13 : | A SERVICE#GENERAL | P is negative 
+Sample 13 : RESTAURANT#MISCELLANEOUS is postive 
+Source 14 : from from of from was from 
+Truth 14 : | A SERVICE#GENERAL | P is negative 
+Sample 14 : 
+Source 15 : from from from from from from from from from 
+Truth 15 : 
+Sample 15 : 
+Source 16 : from from from from from 
+Truth 16 : | A SERVICE#GENERAL | P is negative 
+Sample 16 : 
+Source 17 : from crust from pizza 
+Truth 17 : | A FOOD#QUALITY | P is postive 
+Sample 17 : 
+Source 18 : it was really good from 
+Truth 18 : | A FOOD#QUALITY | P is postive 
+Sample 18 : 
+Source 19 : you know what i mean all the from things happening there made from write this from 
+Truth 19 : 
+Sample 19 : FOOD#QUALITY is negative 
+Source 20 : from from from in from 
+Truth 20 : 
+Sample 20 : 
+Source 21 : from from could give from stars from would do so for this from 
+Truth 21 : 
+Sample 21 : 
+Source 22 : from servers at from from from to have from that from from of making you feel from and ashamed for from to from their from 
+Truth 22 : | A SERVICE#GENERAL | P is negative 
+Sample 22 : RESTAURANT#MISCELLANEOUS is postive 
+Source 23 : from from from start to from a from uncomfortable from 
+Truth 23 : 
+Sample 23 : 
+Source 24 : from can run but they from from 
+Truth 24 : 
+Sample 24 : 
+Source 25 : from from 
+Truth 25 : 
+Sample 25 : 
+Source 26 : from entrees were served with from soup and from 
+Truth 26 : | A FOOD#STYLE_OPTIONS | P is neutral 
+Sample 26 : FOOD#QUALITY is postive 
+Source 27 : from from from the from very well and is from from me into the sake from 
+Truth 27 : | A DRINKS#QUALITY | P is postive 
+Sample 27 : AMBIENCE#GENERAL is postive 
+Source 28 : from would be a from 
+Truth 28 : 
+Sample 28 : 
+Source 29 : from service leaves much to be from from from like you are rushed the place your from to being ignored the rest of the from 
+Truth 29 : | A SERVICE#GENERAL | P is negative 
+Sample 29 : SERVICE#GENERAL is negative 
+Source 30 : from paid a from from but got from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : 
+Source 31 : from never ate because by close to 2 in the from we were not served and were too from from tired to start from 
+Truth 31 : | A SERVICE#GENERAL | P is negative 
+Sample 31 : FOOD#QUALITY is postive 
+Source 0 : from away 
+Truth 0 : 
+Sample 0 : 
+Source 1 : from from from 
+Truth 1 : | A FOOD#QUALITY | P is postive 
+Sample 1 : 
+Source 2 : from love from 
+Truth 2 : 
+Sample 2 : 
+Source 3 : from tried a couple other dishes but from too from 
+Truth 3 : | A FOOD#QUALITY | P is neutral 
+Sample 3 : 
+Source 4 : from for the from from you from find much better in from 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : 
+Source 5 : from with a view 
+Truth 5 : | A LOCATION#GENERAL | P is neutral 
+Sample 5 : RESTAURANT#MISCELLANEOUS is postive 
+Source 6 : from food tasted very from 
+Truth 6 : | A FOOD#QUALITY | P is postive 
+Sample 6 : 
+Source 7 : from family seafood entree was very from 
+Truth 7 : | A FOOD#QUALITY | P is postive 
+Sample 7 : 
+Source 8 : from main entree was also very from 
+Truth 8 : | A FOOD#QUALITY | P is postive 
+Sample 8 : 
+Source 9 : from place from make any sense 
+Truth 9 : 
+Sample 9 : RESTAURANT#MISCELLANEOUS is postive 
+Source 10 : from want to warn you all - from from your time and from 
+Truth 10 : 
+Sample 10 : 
+Source 11 : from from of japanese tapas is from from and from from from 
+Truth 11 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 11 : 
+Source 12 : from food they serve is not from not appetizing and from 
+Truth 12 : | A FOOD#QUALITY | P is negative 
+Sample 12 : 
+Source 13 : from from 
+Truth 13 : | A FOOD#QUALITY | P is postive 
+Sample 13 : 
+Source 14 : from it 
+Truth 14 : 
+Sample 14 : 
+Source 15 : from from and from tried from after work a few from and loved from 
+Truth 15 : 
+Sample 15 : 
+Source 16 : from atmosphere was from 
+Truth 16 : | A AMBIENCE#GENERAL | P is postive 
+Sample 16 : 
+Source 17 : from waitress from from but not especially warm or attentive from 
+Truth 17 : | A SERVICE#GENERAL | P is neutral 
+Sample 17 : 
+Source 18 : from must say from am surprised by the bad reviews of the restaurant earlier in the from from 
+Truth 18 : 
+Sample 18 : FOOD#STYLE_OPTIONS is negative 
+Source 19 : from from there are 4 different from on citysearch for the same place is because they keep trying to start a new from so they can from it with from from 
+Truth 19 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 19 : RESTAURANT#MISCELLANEOUS is negative AMBIENCE#GENERAL 
+Source 20 : from from where do i from 
+Truth 20 : 
+Sample 20 : RESTAURANT#MISCELLANEOUS is postive 
+Source 21 : from from 
+Truth 21 : 
+Sample 21 : 
+Source 22 : from took nearly an from 
+Truth 22 : | A SERVICE#GENERAL | P is negative 
+Sample 22 : 
+Source 23 : from got an from as to what was going from 
+Truth 23 : | A SERVICE#GENERAL | P is negative 
+Sample 23 : 
+Source 24 : from manager was rude and from the from extremely from 
+Truth 24 : | A SERVICE#GENERAL | P is negative 
+Sample 24 : SERVICE#GENERAL is negative 
+Source 25 : from we from to from we were offered a from from even though half the order was from 
+Truth 25 : | A SERVICE#GENERAL | P is negative 
+Sample 25 : RESTAURANT#PRICES is postive 
+Source 26 : from the way from we heard of other guests from about similar from 
+Truth 26 : | A SERVICE#GENERAL | P is negative 
+Sample 26 : 
+Source 27 : from a from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from food is very from but not from 
+Truth 28 : | A FOOD#QUALITY | P is neutral 
+Sample 28 : 
+Source 29 : from our last from they from over our name on the from from us from an extra hour for a from 
+Truth 29 : | A SERVICE#GENERAL | P is negative 
+Sample 29 : RESTAURANT#MISCELLANEOUS is postive 
+Source 30 : from from but they are usually from by an from perhaps even a glass of from not the from that we from from the from from from from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : AMBIENCE#GENERAL is postive 
+Source 31 : from 
+Truth 31 : | A RESTAURANT#PRICES | P is negative 
+Sample 31 : 
+Source 0 : from from 
+Truth 0 : | A SERVICE#GENERAL | P is negative 
+Sample 0 : 
+Source 1 : from was one of the people that went for this horrible from 
+Truth 1 : 
+Sample 1 : RESTAURANT#MISCELLANEOUS is postive 
+Source 2 : from only thing that my friend left out is that when we sat down at the bar the bartender from 
+Truth 2 : | A SERVICE#GENERAL | P is negative 
+Sample 2 : RESTAURANT#MISCELLANEOUS is postive 
+Source 3 : from asked for a menu and the same waitress looked at my like from was from 
+Truth 3 : | A SERVICE#GENERAL | P is negative 
+Sample 3 : RESTAURANT#MISCELLANEOUS is postive 
+Source 4 : from was from that my friends wanted to stay after the waitress from from from from from and from many are in your from 
+Truth 4 : | A SERVICE#GENERAL | P is negative 
+Sample 4 : FOOD#QUALITY is postive 
+Source 5 : from three of us from in from of her should have been an from of how many of us there from 
+Truth 5 : | A SERVICE#GENERAL | P is negative 
+Sample 5 : RESTAURANT#MISCELLANEOUS is postive 
+Source 6 : from from look like the other patrons in there so from from think that may have been part of the from 
+Truth 6 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 6 : FOOD#QUALITY is postive 
+Source 7 : bad staff 
+Truth 7 : | A SERVICE#GENERAL | P is negative 
+Sample 7 : 
+Source 8 : from generally like this from 
+Truth 8 : 
+Sample 8 : 
+Source 9 : from food is from 
+Truth 9 : | A FOOD#QUALITY | P is postive 
+Sample 9 : 
+Source 10 : from design of the space is from 
+Truth 10 : | A AMBIENCE#GENERAL | P is postive 
+Sample 10 : 
+Source 11 : from the service is from 
+Truth 11 : | A SERVICE#GENERAL | P is negative 
+Sample 11 : AMBIENCE#GENERAL is postive 
+Source 12 : from waiter delivered our food while from what from to be a plastic from of from in one from 
+Truth 12 : | A SERVICE#GENERAL | P is negative 
+Sample 12 : 
+Source 13 : from from believe that it from but please from the from down before from from 
+Truth 13 : | A SERVICE#GENERAL | P is negative 
+Sample 13 : 
+Source 14 : from waitress came to check in on us every few from and from to from the plates while half of us were still eating from big from from of mine that from almost from so from try to from from 
+Truth 14 : | A SERVICE#GENERAL | P is negative 
+Sample 14 : DRINKS#STYLE_OPTIONS is postive FOOD#QUALITY is postive 
+Source 15 : from from from the fact that she from over the plate of one of my from who was in from from to from the from 
+Truth 15 : | A SERVICE#GENERAL | P is negative 
+Sample 15 : LOCATION#GENERAL is postive 
+Source 16 : from the main course finally arrived from from half of our order was from 
+Truth 16 : | A SERVICE#GENERAL | P is negative 
+Sample 16 : 
+Source 17 : from an awful experience at from la from on a from from 
+Truth 17 : 
+Sample 17 : 
+Source 18 : from is quite a spectacular scene from give them from 
+Truth 18 : | A AMBIENCE#GENERAL | P is postive 
+Sample 18 : 
+Source 19 : from go to this from 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from this place from the from west village from in this from or any other for that from is from from 
+Truth 20 : 
+Sample 20 : 
+Source 21 : from from from 
+Truth 21 : | A FOOD#QUALITY | P is postive 
+Sample 21 : 
+Source 22 : from complaint is the from believe it would be more reasonable to pay a dollar less on each from listed on the from 
+Truth 22 : | A FOOD#PRICES | P is negative 
+Sample 22 : RESTAURANT#MISCELLANEOUS is negative 
+Source 23 : from a little out of our price range for dining there except on special from but from eaten there 6 times in the last 2 from 
+Truth 23 : | A RESTAURANT#PRICES | P is negative 
+Sample 23 : RESTAURANT#MISCELLANEOUS is neutral 
+Source 24 : from from from from from from from from from will from at you if you try to order a from 
+Truth 24 : | A SERVICE#GENERAL | P is negative 
+Sample 24 : 
+Source 25 : from was almost from by the fact that she was from away customers at from on a from night because she from a from to go from that night - from 
+Truth 25 : | A SERVICE#GENERAL | P is negative 
+Sample 25 : AMBIENCE#GENERAL is postive 
+Source 26 : from be from if my staff were from away customers so early and so from 
+Truth 26 : | A SERVICE#GENERAL | P is negative 
+Sample 26 : 
+Source 27 : from a friendly from so from from mind had she not been so nasty and from so from 
+Truth 27 : | A SERVICE#GENERAL | P is negative 
+Sample 27 : RESTAURANT#MISCELLANEOUS is postive 
+Source 28 : from from be super from if that were my from 
+Truth 28 : | A SERVICE#GENERAL | P is negative 
+Sample 28 : 
+Source 29 : from if from walking by and from about from you might want to see from going to be seating you from 
+Truth 29 : | A SERVICE#GENERAL | P is negative 
+Sample 29 : 
+Source 30 : from and get from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : 
+Source 31 : from finishing our meals which included a from bottle of from our from from from us for a glass of wine and from 
+Truth 31 : | A DRINKS#QUALITY | P is postive 
+Sample 31 : RESTAURANT#MISCELLANEOUS is postive 
+Source 0 : from from from to seat her and she from from from by the four of from but not before from told him that in my 40 years of world from including from that from had never seen such a from of bad from by a from in a from 
+Truth 0 : | A SERVICE#GENERAL | P is negative 
+Sample 0 : SERVICE#GENERAL is negative 
+Source 1 : from response was from from and from totally consistent with his from on from all from 
+Truth 1 : | A SERVICE#GENERAL | P is negative 
+Sample 1 : 
+Source 2 : from from to the from you from dine here and from the from sense of from table from as from as it from or from 
+Truth 2 : | A SERVICE#GENERAL | P is negative 
+Sample 2 : 
+Source 3 : from you go from do it on his from 
+Truth 3 : | A SERVICE#GENERAL | P is negative 
+Sample 3 : 
+Source 4 : from meal in a long from 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : 
+Source 5 : from had the from special which was from 
+Truth 5 : | A FOOD#QUALITY | P is postive 
+Sample 5 : 
+Source 6 : from from had the from steak which was very from and my mother had the from 
+Truth 6 : | A FOOD#QUALITY | P is postive 
+Sample 6 : 
+Source 7 : from from from restaurant is a great from 
+Truth 7 : 
+Sample 7 : 
+Source 8 : from must come here at least from 
+Truth 8 : 
+Sample 8 : 
+Source 9 : from recommend from 
+Truth 9 : 
+Sample 9 : 
+Source 10 : from from from to the next from 
+Truth 10 : | A FOOD#QUALITY | P is postive 
+Sample 10 : 
+Source 11 : from from 
+Truth 11 : | A AMBIENCE#GENERAL | P is postive 
+Sample 11 : 
+Source 12 : from started off with a delightful sashimi from from 
+Truth 12 : | A FOOD#QUALITY | P is postive 
+Sample 12 : RESTAURANT#MISCELLANEOUS is postive 
+Source 13 : from the from from from in the from 
+Truth 13 : | A AMBIENCE#GENERAL | P is postive 
+Sample 13 : 
+Source 14 : from from slice of from from 
+Truth 14 : | A FOOD#QUALITY | P is neutral 
+Sample 14 : 
+Source 15 : from only thing that from you is the from very from 
+Truth 15 : | A AMBIENCE#GENERAL | P is negative 
+Sample 15 : 
+Source 16 : from place has great indian chinese from 
+Truth 16 : | A FOOD#QUALITY | P is postive 
+Sample 16 : 
+Source 17 : from they do not take from card so come with from 
+Truth 17 : | A RESTAURANT#MISCELLANEOUS | P is neutral 
+Sample 17 : RESTAURANT#MISCELLANEOUS is postive 
+Source 18 : from from from in the from by from 
+Truth 18 : | A FOOD#QUALITY | P is postive 
+Sample 18 : 
+Source 19 : from from from 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from came across from from by from now from go there all the from 
+Truth 20 : 
+Sample 20 : 
+Source 21 : from can get a table without a reservation if you get there early from they from make you by from 
+Truth 21 : | A SERVICE#GENERAL | P is postive 
+Sample 21 : RESTAURANT#MISCELLANEOUS is postive 
+Source 22 : from lets from from times from a good from 
+Truth 22 : | A SERVICE#GENERAL | P is postive 
+Sample 22 : 
+Source 23 : from from 
+Truth 23 : 
+Sample 23 : 
+Source 24 : from then from the check down without asking if we were from and came to check on the bill every two from even though we were one of three from from 
+Truth 24 : | A SERVICE#GENERAL | P is negative 
+Sample 24 : RESTAURANT#MISCELLANEOUS is postive 
+Source 25 : from on the menu is from 
+Truth 25 : | A FOOD#QUALITY | P is postive 
+Sample 25 : RESTAURANT#MISCELLANEOUS is postive 
+Source 26 : from establishment is the real from 
+Truth 26 : 
+Sample 26 : 
+Source 27 : from from for a dinner for two that from include from 
+Truth 27 : | A FOOD#PRICES | P is negative 
+Sample 27 : 
+Source 28 : from the appetizers were really from 
+Truth 28 : | A FOOD#QUALITY | P is postive 
+Sample 28 : 
+Source 29 : from entree was also very from 
+Truth 29 : | A FOOD#QUALITY | P is postive 
+Sample 29 : 
+Source 30 : from from about from but they are from over from 
+Truth 30 : | A FOOD#PRICES | P is negative 
+Sample 30 : RESTAURANT#PRICES is postive 
+Source 31 : from of course is not real from but from from 
+Truth 31 : | A FOOD#QUALITY | P is negative 
+Sample 31 : 
+Source 0 : from that a place of this from would from it as from 
+Truth 0 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 0 : 
+Source 1 : from was good but not from 
+Truth 1 : | A FOOD#QUALITY | P is neutral 
+Sample 1 : 
+Source 2 : from was quite excellent from 
+Truth 2 : | A FOOD#QUALITY | P is postive 
+Sample 2 : 
+Source 3 : from from from 
+Truth 3 : | A FOOD#QUALITY | P is negative 
+Sample 3 : 
+Source 4 : from not good at from 
+Truth 4 : | A FOOD#QUALITY | P is negative 
+Sample 4 : 
+Source 5 : from you are going for the from it will not be worth from 
+Truth 5 : | A FOOD#QUALITY | P is negative 
+Sample 5 : 
+Source 6 : from would think they would make up for it with from from from 
+Truth 6 : | A SERVICE#GENERAL | P is negative 
+Sample 6 : RESTAURANT#MISCELLANEOUS is postive 
+Source 7 : from from that dining at from from from is like no other dining from 
+Truth 7 : 
+Sample 7 : 
+Source 8 : from did arrive late for our reservation so from can not complain too much about the wait for a from 
+Truth 8 : | A SERVICE#GENERAL | P is neutral 
+Sample 8 : RESTAURANT#MISCELLANEOUS is neutral 
+Source 9 : great food 
+Truth 9 : | A FOOD#QUALITY | P is postive 
+Sample 9 : 
+Source 10 : from original from 
+Truth 10 : | A FOOD#QUALITY | P is postive 
+Sample 10 : 
+Source 11 : from this from every time we are in the city this is one of the places we always from 
+Truth 11 : 
+Sample 11 : 
+Source 12 : great taste 
+Truth 12 : | A FOOD#QUALITY | P is postive 
+Sample 12 : 
+Source 13 : from is an excellent place to go if from not into from or if you have friends who from like sushi from 
+Truth 13 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 13 : FOOD#QUALITY is postive 
+Source 14 : from appetizers are also from 
+Truth 14 : | A FOOD#QUALITY | P is postive 
+Sample 14 : RESTAURANT#MISCELLANEOUS is postive 
+Source 15 : from from 
+Truth 15 : | A FOOD#QUALITY | P is postive 
+Sample 15 : 
+Source 16 : from from 
+Truth 16 : | A AMBIENCE#GENERAL | P is negative 
+Sample 16 : 
+Source 17 : from from 
+Truth 17 : | A FOOD#QUALITY | P is postive 
+Sample 17 : 
+Source 18 : from had my fair share of modern from and this spot from 
+Truth 18 : | A FOOD#QUALITY | P is postive 
+Sample 18 : 
+Source 19 : from from into being from when from just five feet from your table then from from a good from 
+Truth 19 : | A AMBIENCE#GENERAL | P is negative 
+Sample 19 : FOOD#STYLE_OPTIONS is postive FOOD#QUALITY is postive FOOD#PRICES is negative 
+Source 20 : from from from pretty from 
+Truth 20 : | A FOOD#QUALITY | P is postive 
+Sample 20 : 
+Source 21 : from mom from introduced me to this from but even she from from feels the food can be from over the top spicy and far too from 
+Truth 21 : | A FOOD#QUALITY | P is negative 
+Sample 21 : SERVICE#GENERAL is postive 
+Source 22 : from we keep going back from 
+Truth 22 : 
+Sample 22 : 
+Source 23 : from was from by the horrible from 
+Truth 23 : | A FOOD#QUALITY | P is negative 
+Sample 23 : RESTAURANT#MISCELLANEOUS is negative 
+Source 24 : from from a holiday dinner at the from and the food was from from 
+Truth 24 : | A FOOD#QUALITY | P is negative 
+Sample 24 : FOOD#QUALITY is postive 
+Source 25 : from was so from and from left the dinner hungry and from from 
+Truth 25 : 
+Sample 25 : FOOD#QUALITY is postive 
+Source 26 : from place from on from from 
+Truth 26 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 26 : 
+Source 27 : from will from from 
+Truth 27 : 
+Sample 27 : 
+Source 28 : from from from of from 
+Truth 28 : 
+Sample 28 : 
+Source 29 : from is the from wonderful restaurant in all of from from from not just from 
+Truth 29 : 
+Sample 29 : 
+Source 30 : for 7 years they have from out the most from most delicious food and from it that from 
+Truth 30 : | A FOOD#QUALITY | P is postive 
+Sample 30 : LOCATION#GENERAL is postive 
+Source 31 : you should from from the from to try from 
+Truth 31 : 
+Sample 31 : 
+Source 0 : so from 
+Truth 0 : | A FOOD#QUALITY | P is postive 
+Sample 0 : 
+Source 1 : from from from true love 
+Truth 1 : 
+Sample 1 : 
+Source 2 : from down the best pizza on the from 
+Truth 2 : | A FOOD#QUALITY | P is postive 
+Sample 2 : 
+Source 3 : from about from from the thing is from 
+Truth 3 : | A FOOD#QUALITY | P is postive 
+Sample 3 : 
+Source 4 : great hot from 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : 
+Source 5 : the hot from were from and tender inside and had from of from and from on the from 
+Truth 5 : | A FOOD#QUALITY | P is postive 
+Sample 5 : FOOD#QUALITY is postive RESTAURANT#PRICES is postive 
+Source 6 : from we were told from minutes and it was more like from from 
+Truth 6 : | A SERVICE#GENERAL | P is negative 
+Sample 6 : AMBIENCE#GENERAL is negative 
+Source 7 : from were from to the bar to wait from and upon from were so from 
+Truth 7 : 
+Sample 7 : AMBIENCE#GENERAL is postive 
+Source 8 : from place is from 
+Truth 8 : | A AMBIENCE#GENERAL | P is postive 
+Sample 8 : 
+Source 9 : from hostess was very from 
+Truth 9 : | A SERVICE#GENERAL | P is postive 
+Sample 9 : SERVICE#GENERAL is postive 
+Source 10 : from of the from 
+Truth 10 : 
+Sample 10 : 
+Source 11 : from from the from says it from from from from 
+Truth 11 : 
+Sample 11 : 
+Source 12 : from is on my top 5 from places in from 
+Truth 12 : 
+Sample 12 : 
+Source 13 : from and from 
+Truth 13 : 
+Sample 13 : 
+Source 14 : from from they delivered us someone from from 
+Truth 14 : | A SERVICE#GENERAL | P is negative 
+Sample 14 : LOCATION#GENERAL is postive 
+Source 15 : from was made so i from from 
+Truth 15 : | A SERVICE#GENERAL | P is negative 
+Sample 15 : FOOD#QUALITY is postive 
+Source 16 : from than three minutes from before from found myself from over the from 
+Truth 16 : | A FOOD#QUALITY | P is negative 
+Sample 16 : FOOD#STYLE_OPTIONS is postive 
+Source 17 : from from as if this restaurant had any major from points before from but now from simply from 
+Truth 17 : 
+Sample 17 : FOOD#QUALITY is negative 
+Source 18 : from at your own from 
+Truth 18 : | A FOOD#QUALITY | P is negative 
+Sample 18 : 
+Source 19 : from completely recommend from from from for any special occasion and to from impress your from 
+Truth 19 : | A RESTAURANT#MISCELLANEOUS | P is postive 
+Sample 19 : FOOD#STYLE_OPTIONS is negative 
+Source 20 : from from from 
+Truth 20 : 
+Sample 20 : 
+Source 21 : from dishes came out around 5 minutes from 
+Truth 21 : | A SERVICE#GENERAL | P is negative 
+Sample 21 : FOOD#STYLE_OPTIONS is negative 
+Source 22 : from bad from had paid an extra from for the from from 
+Truth 22 : | A FOOD#PRICES | P is negative 
+Sample 22 : RESTAURANT#PRICES is postive 
+Source 23 : from from was from 
+Truth 23 : | A FOOD#QUALITY | P is negative 
+Sample 23 : 
+Source 24 : from the worst from from from ever from 
+Truth 24 : | A FOOD#QUALITY | P is negative 
+Sample 24 : 
+Source 25 : from sauce tasted more like from fast food than decent from 
+Truth 25 : | A FOOD#QUALITY | P is negative 
+Sample 25 : FOOD#QUALITY is negative AMBIENCE#GENERAL is negative 
+Source 26 : from real problem from had with this place was the complete from of from 
+Truth 26 : | A SERVICE#GENERAL | P is negative 
+Sample 26 : FOOD#QUALITY is postive 
+Source 27 : from just from and walked from 
+Truth 27 : | A SERVICE#GENERAL | P is negative 
+Sample 27 : RESTAURANT#MISCELLANEOUS is negative 
+Source 28 : from to my from about the from no apology or from was from 
+Truth 28 : | A SERVICE#GENERAL | P is negative 
+Sample 28 : 
+Source 29 : from wife had barely from that mess of a from 
+Truth 29 : | A FOOD#QUALITY | P is negative 
+Sample 29 : UNK is negative 
+Source 30 : from were from full from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : 
+Source 31 : from up to the hype 
+Truth 31 : 
+Sample 31 : 
+Source 0 : from tried before but it always packed and from take from 
+Truth 0 : | A RESTAURANT#MISCELLANEOUS | P is neutral 
+Sample 0 : RESTAURANT#PRICES is postive 
+Source 1 : from was well worth the from 
+Truth 1 : 
+Sample 1 : 
+Source 2 : from wife had the from which was from 
+Truth 2 : | A FOOD#QUALITY | P is postive 
+Sample 2 : 
+Source 3 : from waiters try to from more food on from like from things as if they are complimentary when they actually cost from 
+Truth 3 : | A SERVICE#GENERAL | P is negative 
+Sample 3 : FOOD#QUALITY is negative 
+Source 4 : from was amazing - from love from food and eat it quite from but from can say this is one of the best from from 
+Truth 4 : | A FOOD#QUALITY | P is postive 
+Sample 4 : FOOD#QUALITY is postive 
+Source 5 : from from food 
+Truth 5 : | A FOOD#QUALITY | P is postive 
+Sample 5 : 
+Source 6 : from wish from from be from 
+Truth 6 : 
+Sample 6 : 
+Source 7 : from we finally got a from despite from we wanted an from from menu we were from into a table that was only price from 
+Truth 7 : | A SERVICE#GENERAL | P is negative 
+Sample 7 : FOOD#STYLE_OPTIONS is postive 
+Source 8 : from experience did not ever get any from 
+Truth 8 : 
+Sample 8 : RESTAURANT#PRICES is postive 
+Source 9 : from each course we waited over 1/2 hour to from minutes and were never offered a from 
+Truth 9 : | A SERVICE#GENERAL | P is negative 
+Sample 9 : FOOD#QUALITY is negative 
+Source 10 : from also asked for from six times and the waiter from from us one from and never returning with the from 
+Truth 10 : | A SERVICE#GENERAL | P is negative 
+Sample 10 : DRINKS#STYLE_OPTIONS is postive FOOD#QUALITY is postive 
+Source 11 : from the from time i asked again and the waiter than said after our from 
+Truth 11 : | A SERVICE#GENERAL | P is negative 
+Sample 11 : AMBIENCE#GENERAL is postive 
+Source 12 : from asked for from and never from from 
+Truth 12 : | A SERVICE#GENERAL | P is negative 
+Sample 12 : RESTAURANT#MISCELLANEOUS is postive 
+Source 13 : from asked for from which the waiter than from that he forgot to from in that part of our from 
+Truth 13 : | A SERVICE#GENERAL | P is negative 
+Sample 13 : RESTAURANT#MISCELLANEOUS is postive 
+Source 14 : from chicken was from as there were so many from from which i had to keep from out into my from 
+Truth 14 : | A FOOD#QUALITY | P is negative 
+Sample 14 : FOOD#QUALITY is postive 
+Source 15 : from the time we from our dinner we still had not from one beverage from from 
+Truth 15 : | A SERVICE#GENERAL | P is negative 
+Sample 15 : 
+Source 16 : from we did do was from 3 hours being from in a table from and from for food and drinks and from some of which we never from 
+Truth 16 : | A SERVICE#GENERAL | P is negative 
+Sample 16 : SERVICE#GENERAL is neutral 
+Source 17 : from only beverage we did from was water in from from 
+Truth 17 : | A SERVICE#GENERAL | P is negative 
+Sample 17 : 
+Source 18 : from go with a from group than from 
+Truth 18 : | A RESTAURANT#MISCELLANEOUS | P is negative 
+Sample 18 : RESTAURANT#MISCELLANEOUS is postive 
+Source 19 : from would not go back from 
+Truth 19 : 
+Sample 19 : 
+Source 20 : from first we were a little taken from as this seemed to present a from although the restaurant looked fairly from but they from from the table together for from 
+Truth 20 : | A SERVICE#GENERAL | P is postive 
+Sample 20 : DRINKS#STYLE_OPTIONS is postive DRINKS#STYLE_OPTIONS is postive AMBIENCE#GENERAL is negative 
+Source 21 : from menu is fairly simple without much from 
+Truth 21 : | A FOOD#STYLE_OPTIONS | P is neutral 
+Sample 21 : RESTAURANT#MISCELLANEOUS is postive 
+Source 22 : from was no from beer that from which was a from 
+Truth 22 : | A DRINKS#STYLE_OPTIONS | P is negative 
+Sample 22 : 
+Source 23 : from much of a selection of from beer from we went with from 
+Truth 23 : | A DRINKS#STYLE_OPTIONS | P is negative 
+Sample 23 : RESTAURANT#PRICES is postive 
+Source 24 : from believe there were 2 shrimp in the from from from from 
+Truth 24 : | A FOOD#STYLE_OPTIONS | P is negative 
+Sample 24 : FOOD#QUALITY is negative 
+Source 25 : from replied from it would be more from for us if you ordered from since you are a from from and it might get from 
+Truth 25 : | A SERVICE#GENERAL | P is negative 
+Sample 25 : SERVICE#GENERAL is postive 
+Source 26 : from food arrived in about 15 from 
+Truth 26 : | A SERVICE#GENERAL | P is neutral 
+Sample 26 : 
+Source 27 : from had the from style from from from was very from 
+Truth 27 : | A FOOD#QUALITY | P is postive 
+Sample 27 : 
+Source 28 : from heard the lobster roll was from 
+Truth 28 : | A FOOD#QUALITY | P is postive 
+Sample 28 : 
+Source 29 : from seemed to from to rush us from from plates without asking if we were done from from still had her from in from 
+Truth 29 : | A SERVICE#GENERAL | P is negative 
+Sample 29 : SERVICE#GENERAL is negative 
+Source 30 : from not the friendliest to our from from 
+Truth 30 : | A SERVICE#GENERAL | P is negative 
+Sample 30 : 
+Source 31 : from from from from 
+Truth 31 : 
+Sample 31 : 
